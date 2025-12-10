@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Dragostea din tei",
+  "base_artist": "O-Zone",
+  "createdAt": "2025-12-10T08:23:10.316114Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ma Ya Hi (Dragostea Din Tei) - Valentin Radio Edit",
+      "artist": "O-Zone feat. Lucas Prata",
+      "has_synced": true,
+      "path": "select/01_Ma_Ya_Hi_(Dragostea_Din_Tei)_-_Valentin_Radio_Edit_O-Zone_feat._Lucas_Prata.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ma Ya Hi (Dragostea Din Tei) (feat. Lucas Prata) (Valentin Radio Edit)",
+      "artist": "O-Zone, Lucas Prata",
+      "has_synced": true,
+      "path": "select/02_Ma_Ya_Hi_(Dragostea_Din_Tei)_(feat._Lucas_Prata)_(Valentin_Radio_Edit)_O-Zone,_Lucas_Prata.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dragostea Din Tei",
+      "artist": "O-Zone",
+      "has_synced": true,
+      "path": "select/03_Dragostea_Din_Tei_O-Zone.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dragostea Din Tei",
+      "artist": "O-Zone",
+      "has_synced": false,
+      "path": "select/04_Dragostea_Din_Tei_O-Zone.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dragostea din tei",
+      "artist": "O‐Zone",
+      "has_synced": true,
+      "path": "select/05_Dragostea_din_tei_O‐Zone.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dragostea Din Tei - Original Italian Version",
+      "artist": "O-Zone",
+      "has_synced": true,
+      "path": "select/06_Dragostea_Din_Tei_-_Original_Italian_Version_O-Zone.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dragostea din teï (original Italian version)",
+      "artist": "O-Zone",
+      "has_synced": true,
+      "path": "select/07_Dragostea_din_teï_(original_Italian_version)_O-Zone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dragostea Din Tei",
+      "artist": "O-Zone",
+      "has_synced": true,
+      "path": "select/08_Dragostea_Din_Tei_O-Zone.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dragostea Din Tei",
+      "artist": "O-Zone",
+      "has_synced": true,
+      "path": "select/09_Dragostea_Din_Tei_O-Zone.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dragostea Din Tei",
+      "artist": "Haiducii",
+      "has_synced": true,
+      "path": "select/10_Dragostea_Din_Tei_Haiducii.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dragostea Din Tei",
+      "artist": "Haiducii",
+      "has_synced": true,
+      "path": "select/11_Dragostea_Din_Tei_Haiducii.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dragostea Din Tei (Original Mix)",
+      "artist": "Haiducii",
+      "has_synced": true,
+      "path": "select/12_Dragostea_Din_Tei_(Original_Mix)_Haiducii.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dragostea Din Tei",
+      "artist": "O-Zone",
+      "has_synced": false,
+      "path": "select/13_Dragostea_Din_Tei_O-Zone.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dragostea Din Tei - Original Romanian Version",
+      "artist": "O-Zone",
+      "has_synced": true,
+      "path": "select/14_Dragostea_Din_Tei_-_Original_Romanian_Version_O-Zone.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dragostea Din Tei",
+      "artist": "O-Zone",
+      "has_synced": false,
+      "path": "select/pl_01_Dragostea_Din_Tei_O-Zone.txt"
+    }
+  ]
+}
