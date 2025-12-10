@@ -1,0 +1,87 @@
+# O-Zone – Dragostea din tei
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.86] Ma-ia-hii
+[00:03.46] Ma-ia-huu
+[00:04.71] Ma-ia-hoo
+[00:06.19] Ma-ia-haa
+[00:10.69] 
+[00:07.83] Ma-ia-hii
+[00:09.82] Ma-ia-huu
+[00:11.97] Ma-ia-hoo
+[00:13.52] Ma-ia-haa
+[00:18.02] 
+[00:15.43] Ma-ia-hii
+[00:17.14] Ma-ia-huu
+[00:19.13] Ma-ia-hoo
+[00:20.99] Ma-ia-haa
+[00:25.49] 
+[00:22.49] Ma-ia-hii
+[00:24.39] Ma-ia-huu
+[00:26.26] Ma-ia-hoo
+[00:28.06] Ma-ia-haa
+[00:32.56] 
+[00:31.73] Alo salut sunt eu un haiduc
+[00:39.34] Si te rog iubirea mea primeste fericirea
+[00:46.54] Alo alo sunt eu Picasso
+[00:53.42] Ti-am dat beep si sunt voinic
+[00:57.87] Dar sa stii nu-ti cer nimic
+[01:11.37] 
+[01:01.58] Vrei sa pleci dar nu ma nu ma iei
+[01:05.30] Nu ma nu ma iei nu ma nu ma nu ma iei
+[01:09.64] Chipul tau si dragostea din tei
+[01:12.40] Mi-amintesc de ochii tai
+[01:24.40] 
+[01:16.28] Vrei sa pleci dar nu ma nu ma iei
+[01:20.36] Nu ma nu ma iei nu ma nu ma nu ma iei
+[01:23.87] Chipul tau si dragostea din tei
+[01:27.17] Mi-amintesc de ochii tai
+[01:39.17] 
+[01:31.63] Te sun sa-ti spun ce simt acum
+[01:38.20] Alo iubirea mea sunt eu fericirea
+[01:45.63] Alo alo sunt iarasi eu Picasso
+[01:52.70] Ti-am dat beep si sunt voinic
+[01:56.82] Dar sa stii nu-ti cer nimic
+[02:10.32] 
+[02:00.13] Vrei sa pleci dar nu ma nu ma iei
+[02:04.14] Nu ma nu ma iei nu ma nu ma nu ma iei
+[02:07.94] Chipul tau si dragostea din tei
+[02:11.81] Mi-amintesc de ochii tai
+[02:23.81] 
+[02:15.26] Vrei sa pleci dar nu ma nu ma iei
+[02:18.89] Nu ma nu ma iei nu ma nu ma nu ma iei
+[02:22.36] Chipul tau si dragostea din tei
+[02:26.29] Mi-amintesc de ochii tai
+[02:38.29] 
+[02:29.98] Ma-ia-hii
+[02:31.95] Ma-ia-huu
+[02:33.98] Ma-ia-hoo
+[02:35.74] Ma-ia-haa
+[02:40.24] 
+[02:37.62] Ma-ia-hii
+[02:39.22] Ma-ia-huu
+[02:41.08] Ma-ia-hoo
+[02:43.07] Ma-ia-haa
+[02:47.57] 
+[02:44.94] Ma-ia-hii
+[02:46.36] Ma-ia-huu
+[02:48.25] Ma-ia-hoo
+[02:50.14] Ma-ia-haa
+[02:54.64] 
+[02:52.20] Ma-ia-hii
+[02:54.16] Ma-ia-huu
+[02:56.01] Ma-ia-hoo
+[02:58.07] Ma-ia-haa
+[03:02.57] 
+[02:59.93] Vrei sa pleci dar nu ma nu ma iei
+[03:03.28] Nu ma nu ma iei nu ma nu ma nu ma iei
+[03:07.11] Chipul tau si dragostea din tei
+[03:10.94] Mi-amintesc de ochii tai
+[03:22.94] 
+[03:14.32] Vrei sa pleci dar nu ma nu ma iei
+[03:18.01] Nu ma nu ma iei nu ma nu ma nu ma iei
+[03:21.96] Chipul tau si dragostea din tei
+[03:25.16] Mi-amintesc de ochii tai
+```
